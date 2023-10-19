@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @JomarcJSilos
 - 👀 I’m interested in sports, music, and coding!
-- 🌱 I’m currently learning java and python!
+- 🌱 I’m currently learning SQL, Tableau, Excel and Python!
 - 💞️ I’m looking to collaborate on any projects that will enhance my skills in coding. 
 - 📫 How to reach me: jomarcjulius@gmail.com
 
